@@ -1,0 +1,12 @@
+page {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+button {
+  margin: 6rpx;
+}
+
+.container {
+  padding: 12rpx;
+}

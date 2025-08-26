@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/game/index"
+  ],
+  "window": {
+    "navigationBarTitleText": "Tetris",
+    "navigationBarBackgroundColor": "#111111",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#000000",
+    "backgroundTextStyle": "light"
+  },
+  "sitemapLocation": "sitemap.json"
+}

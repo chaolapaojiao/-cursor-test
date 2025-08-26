@@ -1,0 +1,12 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "cursor-test",
+  "appid": "touristappid",
+  "description": "Tetris WeChat Mini Program",
+  "compileType": "miniprogram",
+  "setting": {
+    "es6": true,
+    "postcss": true,
+    "minified": false
+  }
+}
